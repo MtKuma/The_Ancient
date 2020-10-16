@@ -1,0 +1,20 @@
+<players 	
+	root="gfx/characters/costumes/" 
+      portraitroot="gfx/ui/boss/" 
+      nameimageroot="gfx/ui/boss/" 
+      bigportraitroot="gfx/ui/stage/">
+	<player 
+		name="The Ancient" 
+		skin="character_TheOlder.png" 
+		hp="4"
+		coins="0"
+		bombs="1" 
+		keys="1"
+		trinket='92'
+		card="49"
+          
+	    	nameimage="playername_TheOlder.png" 
+          	portrait="playerportrait_TheOlder.png" 
+          	bigportrait="playerportraitbig_TheOlder.png" 
+		skinColor="-1" />
+</players>

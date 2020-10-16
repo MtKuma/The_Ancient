@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>The Ancient</name>
+    <directory>the ancient</directory>
+    <id>2198220173</id>
+    <description>Here is my first mod, that i use to learn.
+
+       i maked a custom skin inspired from the old keeper, mod image and video will apprear soon
+        
+        the character start with random stat choose in a &quot;poolpack&quot; and every 5 rooms without taking any damage he will spawn an item from the pack pool (there is only 4 item in the pool)
+        
+        he start with 2 red hearth, the cracked dice and the cracked crown trinked
+        
+        there are some bugs, if you see one please tell me
+        anyway i'am still working on it</description>
+    <version>1.3</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Player Characters"/>
+</metadata>
